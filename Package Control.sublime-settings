@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Rails Partial",
+		"Ruby Debugger",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint"
+	]
+}
