@@ -6,9 +6,13 @@
 		"ColorPicker",
 		"Rails Partial",
 		"Ruby Debugger",
+		"Ruby Slim",
+		"SCSS",
+		"Seti_UI",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-jshint"
 	]
 }

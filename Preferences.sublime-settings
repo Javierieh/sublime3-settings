@@ -1,9 +1,14 @@
 {
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/Seti (SL).tmTheme",
 	"font_size": 11,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"tab_size": 2
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 2,
+	"theme": "Seti.sublime-theme",
+	"Seti_no_bar_undertabs": true,
 }
