@@ -2,17 +2,22 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
-		"ColorPicker",
+		"HTML5",
+		"jQuery",
+		"JsFormat",
 		"Rails Partial",
 		"Ruby Debugger",
 		"Ruby Slim",
 		"SCSS",
 		"Seti_UI",
 		"SideBarEnhancements",
+		"Sublime Bookmarks",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint"
 	]
 }
