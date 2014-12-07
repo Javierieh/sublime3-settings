@@ -1,15 +1,17 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
-		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
+		"Gist",
 		"HTML5",
 		"jQuery",
 		"JsFormat",
 		"Rails Partial",
 		"Ruby Debugger",
 		"Ruby Slim",
+		"ScopeHunter",
 		"SCSS",
 		"Seti_UI",
 		"SideBarEnhancements",

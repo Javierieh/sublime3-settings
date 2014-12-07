@@ -10,5 +10,6 @@
 	],
 	"overlay_scroll_bars": "enabled",
 	"tab_size": 2,
-	"theme": "Seti.sublime-theme"
+	"theme": "Seti.sublime-theme",
+	"auto_complete_selector": "source, text"
 }
