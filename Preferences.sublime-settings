@@ -1,5 +1,7 @@
 {
 	"Seti_no_bar_undertabs": true,
+	"auto_complete_selector": "source, text",
+	"auto_complete_commit_on_tab": true,
 	"caret_extra_width": 2,
 	"color_scheme": "Packages/User/Seti (SL).tmTheme",
 	"font_size": 11,
@@ -10,6 +12,5 @@
 	],
 	"overlay_scroll_bars": "enabled",
 	"tab_size": 2,
-	"theme": "Seti.sublime-theme",
-	"auto_complete_selector": "source, text"
+	"theme": "Seti.sublime-theme"
 }
