@@ -2,12 +2,6 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2",
-		"ssl-linux"
-	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -19,6 +13,7 @@
 		"jQuery",
 		"JsFormat",
 		"Package Control",
+		"Pretty JSON",
 		"Rails Partial",
 		"Ruby Debugger",
 		"Ruby Slim",
@@ -32,6 +27,7 @@
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"SublimeLinter-ruby"
 	]
 }
