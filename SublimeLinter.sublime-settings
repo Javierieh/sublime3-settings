@@ -1,6 +1,7 @@
 {
 	"user":
 	{
+		"@disable": true,
 		"debug": false,
 		"delay": 0.25,
 		"error_color": "D02000",
@@ -11,7 +12,38 @@
 		"lint_mode": "background",
 		"linters":
 		{
+			"htmltidy":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"jshint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
+			"json":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"strict": true
+			},
+			"ruby":
 			{
 				"@disable": false,
 				"args":
