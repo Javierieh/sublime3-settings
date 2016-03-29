@@ -14,6 +14,7 @@
 		"HTML5",
 		"jQuery",
 		"JsFormat",
+		"MoveTab",
 		"Package Control",
 		"Pretty JSON",
 		"Rails Partial",
@@ -33,6 +34,7 @@
 		"SublimeLinter-json",
 		"SublimeLinter-ruby",
 		"Sublimerge Pro",
+		"TabsExtra",
 		"yardoc"
 	]
 }
