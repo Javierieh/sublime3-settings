@@ -7,6 +7,7 @@
 	[
 		"AdvancedNewFile",
 		"Alignment",
+		"Babel",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"ColorPicker",
@@ -32,6 +33,7 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
+		"SublimeLinter-jsxhint",
 		"SublimeLinter-ruby",
 		"Sublimerge Pro",
 		"TabsExtra",
