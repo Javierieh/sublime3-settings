@@ -1,5 +1,6 @@
 {
 	"Seti_no_bar_undertabs": true,
+	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_selector": "source, text",
 	"caret_extra_width": 2,
